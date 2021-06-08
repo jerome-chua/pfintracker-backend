@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha",
+    "start": "node index.mjs",
+    "watch": "nodemon index.mjs"
   },
   "keywords": [],
   "author": "Jerome Chua",
@@ -17,9 +19,12 @@
     "method-override": "^3.0.0",
     "mocha": "^9.0.0",
     "pg": "^8.6.0",
-    "sequelize": "^6.6.2"
+    "sequelize": "^6.6.2",
+    "url": "^0.11.0"
   },
   "devDependencies": {
-    "sequelize-cli": "^6.2.0"
+    "sequelize-cli": "^6.2.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "nodemon": "^2.0.7"
   }
 }
