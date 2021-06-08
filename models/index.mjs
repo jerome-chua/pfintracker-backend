@@ -26,9 +26,9 @@ if (env === 'production') {
   const dbName = dbUrl.path.slice(1);
 
   const host = dbUrl.hostname;
-  const { port } = dbUrl;
-
   config.host = host;
+
+  const { port } = dbUrl;
   config.port = port;
 
   // Pass previously broken up parameters seperately for Sequelize instance
@@ -37,5 +37,15 @@ if (env === 'production') {
   sequelize = new Sequelize(config.database, config.username, config.password, config);
 }
 
+// Define models representing table in DB
+db.User = initUserModel(sequelize, Sequelize.DataTypes);
+db.Expense = initExpenseModel(sequelize, Sequelize.DataTypes);
+
+// Define Sequelize associations between models
+db.User.hasMany(db.Expense);
+db.Expense.belongsTo(db.User);
+
+db.sequelize = sequelize;
+db.Sequelize = Sequelize;
 
 export default db;
