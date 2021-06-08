@@ -34,7 +34,7 @@ module.exports = {
         type: Sequelize.INTEGER,
       },
       user_id: {
-        reference: {
+        references: {
           model: 'users',
           key: 'id',
         },
@@ -49,7 +49,7 @@ module.exports = {
       currency: {
         type: Sequelize.STRING,
       },
-      note: {
+      hashtag: {
         type: Sequelize.STRING,
       },
       label: {
