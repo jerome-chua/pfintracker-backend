@@ -24,10 +24,10 @@ export default function initExpenseModel(sequelize, DataTypes) {
       currency: {
         type: DataTypes.STRING,
       },
-      hashtag: {
+      note: {
         type: DataTypes.STRING,
       },
-      label: {
+      hashtag: {
         type: DataTypes.STRING,
       },
       categoryId: {

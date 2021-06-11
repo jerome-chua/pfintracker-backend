@@ -6,7 +6,7 @@ import cors from 'cors';
 const FRONTEND_URL = process.env.FRONTEND_URL || 'http://localhost:3000';
 
 // Init Express instance
-const app = expres();
+const app = express();
 // Bind following app-level middleware
 app.use(cors({
   credentials:true,    // enable HTTP cookies over CORS

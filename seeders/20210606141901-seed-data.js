@@ -1,6 +1,5 @@
-import jsSHA from 'jssha';
-import parse from 'csv-parse';
-import fs from 'fs';
+const jsSHA = require('jssha');
+const csvData = require('./csv-data.js');
 
 module.exports = {
   up: async (queryInterface, Sequelize) => {
@@ -23,11 +22,14 @@ module.exports = {
         updated_at: new Date(),
       },
     ];
+
     await queryInterface.bulkInsert('users', usersList);
+
+    await queryInterface.bulkInsert('expenses', expensesList);
   },
 
   down: async (queryInterface) => {
-    // await queryInterface.bulkDelete('expenses', null, {});
+    await queryInterface.bulkDelete('expenses', null, {});
     await queryInterface.bulkDelete('users', null, {});
 
   }

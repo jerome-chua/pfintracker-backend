@@ -10,7 +10,6 @@ module.exports = {
     ecmaVersion: 11,
   },
   rules: {
-
     'brace-style': 'off',
     'import/extensions': ['error', 'ignorePackages'],
     'linebreak-style': 'off',

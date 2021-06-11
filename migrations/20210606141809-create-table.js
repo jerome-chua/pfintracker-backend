@@ -49,10 +49,10 @@ module.exports = {
       currency: {
         type: Sequelize.STRING,
       },
-      hashtag: {
+      note: {
         type: Sequelize.STRING,
       },
-      label: {
+      hashtag: {
         type: Sequelize.STRING,
       },
       category_id: {
