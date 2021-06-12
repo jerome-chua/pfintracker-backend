@@ -30,12 +30,12 @@ export default function initExpenseModel(sequelize, DataTypes) {
       hashtag: {
         type: DataTypes.STRING,
       },
-      categoryId: {
-        type: DataTypes.INTEGER,
+      category: {
+        type: DataTypes.STRING,
       },
       createdAt: {
         allowNull: false,
-        type: Sequelize.DATE,
+        type: DataTypes.DATE,
       },
       updatedAt: {
         allowNull: false,

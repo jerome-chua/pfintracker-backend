@@ -55,8 +55,8 @@ module.exports = {
       hashtag: {
         type: Sequelize.STRING,
       },
-      category_id: {
-        type: Sequelize.INTEGER,
+      category: {
+        type: Sequelize.STRING,
       },
       created_at: {
         allowNull: false,

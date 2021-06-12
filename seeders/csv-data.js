@@ -11,9 +11,9 @@ let csvData = [];
   .on('data', (dataRow) => {
     csvData.push(dataRow)
   })
-  // .on('end', () => {
-  //   console.log(csvData);
-  // })
+  .on('end', () => {
+    console.log(csvData);
+  })
 
 module.exports = csvData;
  
