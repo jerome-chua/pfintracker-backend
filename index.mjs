@@ -2,6 +2,7 @@ import express from 'express';
 import cookieParser from 'cookie-parser';
 import methodOverride from 'method-override';
 import cors from 'cors';
+import bindRoutes from './routes.mjs'
 
 const FRONTEND_URL = process.env.FRONTEND_URL || 'http://localhost:3000';
 
@@ -25,6 +26,9 @@ app.use(methodOverride('_method'));
 // Serve static files stored in public folder
 app.use(express.static('public'));
 
+
+// Bind route definitions to Express app
+bindRoutes(app);
 
 // Start Express server and listen on given port
 const PORT = process.env.PORT || 3004;
