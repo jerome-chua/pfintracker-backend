@@ -14,7 +14,7 @@ app.use(cors({
   origin: FRONTEND_URL // restrict AJAX acess to single origin
 }))
 // Set Express view engine to expect EJS template
-app.set('view engine', ejs);
+app.set('view engine', 'ejs');
 // Parse cookie header and handle cookie separation & encoding
 app.use(cookieParser());
 // Parse incoming requests with JSON payloads
