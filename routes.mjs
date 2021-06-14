@@ -1,3 +1,8 @@
 import db from './models/index.mjs';
 
-export default function bindRoutes(app) {}
+import initTransactionsController from './controllers/transactions.mjs';
+import initUserControllers from './controllers/users.mjs';
+
+export default function bindRoutes(app) {
+
+}

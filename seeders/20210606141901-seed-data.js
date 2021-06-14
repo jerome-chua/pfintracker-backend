@@ -41,16 +41,16 @@ module.exports = {
     //   { type: 'Sports', color: expenseColors[11] },
     //   { type: 'Salary', color: expenseColors[12] },
     // ];
-    const expensesList = [];
+    const transactionsList = [];
     
     for (let i=1; i<csvData.length; i++) {
       
       let row = csvData[i];
-      const [transactDate, wallet, expenseType, categoryName, amount, note, hashTag] = row;
+      const [transactDate, wallet, transactionType, categoryName, amount, note, hashTag] = row;
   
-      let expense = {
+      let transaction = {
         user_id: 1, 
-        expense_type: expenseType,
+        transaction_type: transactionType,
         amount: parseFloat(amount.substring(1)),
         currency: 'SGD',
         note: note,
@@ -60,13 +60,13 @@ module.exports = {
         updated_at: new Date(),
       };
 
-      expensesList.push(expense);
+      transactionsList.push(transaction);
     }
-    await queryInterface.bulkInsert('expenses', expensesList);
+    await queryInterface.bulkInsert('transactions', transactionsList);
   },
 
   down: async (queryInterface) => {
-    await queryInterface.bulkDelete('expenses', null, {});
+    await queryInterface.bulkDelete('transactions', null, {});
     await queryInterface.bulkDelete('users', null, {});
   }
 };

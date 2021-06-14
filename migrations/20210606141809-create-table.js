@@ -26,7 +26,7 @@ module.exports = {
       },
     });
 
-    await queryInterface.createTable('expenses', {
+    await queryInterface.createTable('transactions', {
       id: {
         allowNull: false,
         autoIncrement: true,
@@ -40,7 +40,7 @@ module.exports = {
         },
         type: Sequelize.INTEGER,
       },
-      expense_type: {
+      transaction_type: {
         type: Sequelize.STRING,
       },
       amount: {
@@ -70,7 +70,7 @@ module.exports = {
   },
 
   down: async (queryInterface) => {
-    await queryInterface.dropTable('expenses');
+    await queryInterface.dropTable('transactions');
     await queryInterface.dropTable('users');
   }
 };

@@ -1,6 +1,6 @@
-export default function initExpenseModel(sequelize, DataTypes) {
+export default function initTransactionModel(sequelize, DataTypes) {
   return sequelize.define(
-    'expense',
+    'transaction',
     {
     id: {
         allowNull: false,
@@ -15,7 +15,7 @@ export default function initExpenseModel(sequelize, DataTypes) {
         },
         type: DataTypes.INTEGER,
       },
-      expenseType: {
+      transactionType: {
         type: DataTypes.STRING,
       },
       amount: {
