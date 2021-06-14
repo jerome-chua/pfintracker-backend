@@ -11,8 +11,6 @@ export default function initTransactionsController(db) {
         },
       });
 
-      console.log("TRANSACTIONS ====================\n\n", transactions);
-
       res.send(transactions);
     } catch (err) {
       console.log("Error found while getTransactions:", err);
@@ -29,16 +27,32 @@ export default function initTransactionsController(db) {
       const user = await db.User.findByPk(Number(userId));
       const add = await user.addTransaction(transactionData);
 
-      console.log("Add succesfully: -----", add);
-
       res.send("SUCCESS")
     } catch (err) {
        console.log("Error found while addTransaction:", err);
     }
   }
 
+  const getCategories = async (req, res) => {
+    try {
+      const transactions = await db.Transaction.findAll();
+
+      const categories = new Set();
+      transactions.map(item => {
+        categories.add(item.category);
+      })  
+
+      const catList = Array.from(categories);
+
+      res.send(catList);
+    } catch (err) {
+      console.log("Error found while getCategories:", err);
+    }
+  }
+
   return {
     getTransactions,
     addTransaction,
+    getCategories,
   }
 }
