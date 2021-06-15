@@ -9,6 +9,9 @@ export default function initTransactionsController(db) {
         where: {
           userId: Number(userId),
         },
+        order: [
+          ['createdAt', 'DESC'],
+        ],
       });
 
       res.send(transactions);
