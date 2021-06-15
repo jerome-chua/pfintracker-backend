@@ -23,12 +23,13 @@ export default function initTransactionsController(db) {
   const addTransaction = async (req, res) => {
     // const { userId } = req.cookies;
     let userId = 1;
-
-    const {transactionData} = req.body;
+    const { transactionData } = req.body;
+    
+    console.log('see transactiondata!! ===========', transactionData)
 
     try {
       const user = await db.User.findByPk(Number(userId));
-      const add = await user.addTransaction(transactionData);
+      const add = await db.Transaction.create({...transactionData, userId:1});
 
       res.send("SUCCESS")
     } catch (err) {
