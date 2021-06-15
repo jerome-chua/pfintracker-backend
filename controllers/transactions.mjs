@@ -52,10 +52,27 @@ export default function initTransactionsController(db) {
       console.log("Error found while getCategories:", err);
     }
   }
+  
+  const getHashtags = async (req, res) => {
+    try {
+      const transactions = await db.Transaction.findAll();
 
+      const hashtags = new Set();
+      transactions.map(item => {
+        hashtags.add(item.hashtag);
+      })  
+
+      const hashtagList = Array.from(hashtags);
+
+      res.send(hashtagList);
+    } catch (err) {
+      console.log("Error found while getHashtags:", err);
+    }
+  }
   return {
     getTransactions,
     addTransaction,
     getCategories,
+    getHashtags
   }
 }
