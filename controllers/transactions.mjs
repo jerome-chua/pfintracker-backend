@@ -24,14 +24,14 @@ export default function initTransactionsController(db) {
     // const { userId } = req.cookies;
     let userId = 1;
     const { transactionData } = req.body;
-    
+
     console.log('see transactiondata!! ===========', transactionData)
 
     try {
       const user = await db.User.findByPk(Number(userId));
-      const add = await db.Transaction.create({...transactionData, userId:1});
+      const added = await db.Transaction.create({...transactionData, userId:1});
 
-      res.send("SUCCESS")
+      res.send(added)
     } catch (err) {
        console.log("Error found while addTransaction:", err);
     }
