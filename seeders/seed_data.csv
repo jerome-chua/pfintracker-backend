@@ -1,0 +1,627 @@
+Date,Wallet,Type,Category,Amount,Note,Hashtag,User
+2020-06-07T00:09:22+00:00,Wallet,Expense,Food & Drinks,-44.7,deliverooplus1month,#deliverooplus1month,Jerome C
+2020-06-07T00:25:16+00:00,Wallet,Expense,Food & Drinks,-53.64,,,Jerome C
+2020-06-07T00:25:23+00:00,Wallet,Expense,Gifts,-50.76,lien,#lien,Jerome C
+2020-06-07T10:32:30+00:00,Wallet,Expense,Books,-25.2,datacamp,#datacamp,Jerome C
+2020-06-08T09:22:11+00:00,Wallet,Expense,Food & Drinks,-67.392,,,Jerome C
+2020-06-11T13:20:04+00:00,Wallet,Expense,Food & Drinks,-36.72,,,Jerome C
+2020-06-12T06:09:29+00:00,Wallet,Expense,Food & Drinks,-16.2,,,Jerome C
+2020-06-13T00:55:21+00:00,Wallet,Expense,Books,-29.952,calcworkshop,#calcworkshop,Jerome C
+2020-06-13T00:59:11+00:00,Wallet,Expense,Food & Drinks,-147.6,,,Jerome C
+2020-06-13T00:59:16+00:00,Wallet,Expense,Gifts,-56.16,For special surprise,,Jerome C
+2020-06-13T12:15:22+00:00,Wallet,Expense,Food & Drinks,-22.32,,,Jerome C
+2020-06-14T00:58:56+00:00,Wallet,Expense,Food & Drinks,-54,,,Jerome C
+2020-06-14T00:59:00+00:00,Wallet,Expense,Gifts,-43.2,,,Jerome C
+2020-06-15T00:29:15+00:00,Wallet,Expense,Food & Drinks,-25.2,Spend less on this,,Jerome C
+2020-06-15T01:26:19+00:00,Wallet,Expense,Investment,-37.26,notionapp,#notionapp,Jerome C
+2020-06-15T09:43:50+00:00,Wallet,Expense,Food & Drinks,-26.46,,,Jerome C
+2020-06-15T09:43:50+00:00,Wallet,Income,Salary,11110000,salary,,Jerome C
+2020-06-15T09:43:55+00:00,Wallet,Expense,Gifts,-36,,,Jerome C
+2020-06-16T08:13:57+00:00,Wallet,Expense,Bills,-34.56,,,Jerome C
+2020-06-19T06:59:11+00:00,Wallet,Expense,Food & Drinks,-174.96,,,Jerome C
+2020-06-19T12:32:38+00:00,Wallet,Expense,Food & Drinks,-58.68,,,Jerome C
+2020-06-21T01:10:39+00:00,Wallet,Expense,Gifts,-51.084,Honor Father and mother,,Jerome C
+2020-06-21T02:46:40+00:00,Wallet,Expense,Gifts,-360,,,Jerome C
+2020-06-21T13:52:49+00:00,Wallet,Expense,Food & Drinks,-233.82,,,Jerome C
+2020-06-22T05:32:14+00:00,Wallet,Expense,Food & Drinks,-10.8,,,Jerome C
+2020-06-22T11:44:57+00:00,Wallet,Expense,Food & Drinks,-61.2,,,Jerome C
+2020-06-23T02:59:57+00:00,Wallet,Expense,Food & Drinks,-43.2,,,Jerome C
+2020-06-23T03:00:01+00:00,Wallet,Expense,Gifts,-28.8,,,Jerome C
+2020-06-23T07:47:18+00:00,Wallet,Expense,Food & Drinks,-36,,,Jerome C
+2020-06-23T07:47:22+00:00,Wallet,Expense,Gifts,-46.8,,,Jerome C
+2020-06-24T04:40:22+00:00,Wallet,Expense,Investment,-18.72,icloudstorage,#icloudstorage,Jerome C
+2020-06-24T16:00:00+00:00,Wallet,Expense,Investment,-4.608,,#insurance,Jerome C
+2020-06-25T11:23:38+00:00,Wallet,Expense,Food & Drinks,-315,,,Jerome C
+2020-06-26T00:34:22+00:00,Wallet,Expense,Food & Drinks,-51.12,,,Jerome C
+2020-06-26T09:58:46+00:00,Wallet,Expense,Food & Drinks,-67.68,,,Jerome C
+2020-06-26T14:11:01+00:00,Wallet,Expense,Gifts,-65.52,durian,,Jerome C
+2020-06-27T11:24:14+00:00,Wallet,Expense,Food & Drinks,-7.2,,,Jerome C
+2020-06-27T11:24:21+00:00,Wallet,Expense,Food & Drinks,-65.52,,,Jerome C
+2020-06-28T02:59:30+00:00,Wallet,Expense,Gifts,-43.164,,,Jerome C
+2020-06-28T02:59:35+00:00,Wallet,Expense,Food & Drinks,-38.88,,,Jerome C
+2020-06-28T11:03:52+00:00,Wallet,Expense,Food & Drinks,-18.72,,,Jerome C
+2020-06-29T03:36:30+00:00,Wallet,Expense,Bills,-34.92,microsoft office,,Jerome C
+2020-06-30T01:20:26+00:00,Wallet,Income,Salary,1100000,,,Jerome C
+2020-06-30T02:58:20+00:00,Wallet,Expense,Transportation,12960,,,Jerome C
+2020-06-30T02:58:27+00:00,Wallet,Expense,Gifts,-27.36,,,Jerome C
+2020-06-30T03:43:23+00:00,Wallet,Expense,Food & Drinks,-1.44,,,Jerome C
+2020-07-01T04:28:27+00:00,Wallet,Expense,Books,-30.6,,,Jerome C
+2020-07-01T09:24:47+00:00,Wallet,Expense,Books,-398.988,,,Jerome C
+2020-07-02T10:10:17+00:00,Wallet,Expense,Haircuts,-370.584,,,Jerome C
+2020-07-03T01:45:33+00:00,Wallet,Expense,Food & Drinks,-43.2,,,Jerome C
+2020-07-03T13:32:27+00:00,Wallet,Expense,Bills,-21.6,handphonebills,#handphonebills,Jerome C
+2020-07-04T01:45:06+00:00,Wallet,Expense,Food & Drinks,-173.7,,,Jerome C
+2020-07-04T01:50:12+00:00,Wallet,Expense,Food & Drinks,-8.64,,,Jerome C
+2020-07-04T05:01:07+00:00,Wallet,Expense,Gifts,-46.44,,,Jerome C
+2020-07-04T05:01:13+00:00,Wallet,Expense,Food & Drinks,-38.88,,,Jerome C
+2020-07-04T09:34:09+00:00,Wallet,Expense,Books,-54,,,Jerome C
+2020-07-05T01:53:38+00:00,Wallet,Expense,Food & Drinks,-278.64,,,Jerome C
+2020-07-05T10:26:51+00:00,Wallet,Expense,Food & Drinks,-67.32,,,Jerome C
+2020-07-05T10:26:56+00:00,Wallet,Expense,Gifts,-20.52,,,Jerome C
+2020-07-06T10:26:43+00:00,Wallet,Expense,Food & Drinks,-15.12,,,Jerome C
+2020-07-07T00:09:38+00:00,Wallet,Expense,Food & Drinks,-22.68,,,Jerome C
+2020-07-07T05:24:21+00:00,Wallet,Expense,Gifts,-50.76,caleb,#caleb,Jerome C
+2020-07-07T10:32:30+00:00,Wallet,Expense,Books,-18,datacamp,#datacamp,Jerome C
+2020-07-07T11:14:45+00:00,Wallet,Expense,Food & Drinks,-67.392,,,Jerome C
+2020-07-07T11:19:41+00:00,Wallet,Expense,Bills,-51.84,iras,#iras,Jerome C
+2020-07-08T13:48:41+00:00,Wallet,Expense,Food & Drinks,-45.864,,,Jerome C
+2020-07-10T09:47:59+00:00,Wallet,Expense,Food & Drinks,-54.684,,,Jerome C
+2020-07-10T09:48:07+00:00,Wallet,Expense,Food & Drinks,-65.16,,,Jerome C
+2020-07-10T09:48:39+00:00,Wallet,Expense,Gifts,-11.88,honor,#honor,Jerome C
+2020-07-10T09:48:53+00:00,Wallet,Expense,Food & Drinks,-360,deliverooplus1month,#deliverooplus1month,Jerome C
+2020-07-10T09:53:58+00:00,Wallet,Expense,Food & Drinks,-53.64,,,Jerome C
+2020-07-11T01:32:52+00:00,Wallet,Expense,Food & Drinks,-54.684,,,Jerome C
+2020-07-12T01:42:12+00:00,Wallet,Expense,Food & Drinks,-7.2,,,Jerome C
+2020-07-12T01:42:17+00:00,Wallet,Expense,Gifts,-39.6,,,Jerome C
+2020-07-12T01:42:20+00:00,Wallet,Expense,Food & Drinks,-39.6,,,Jerome C
+2020-07-12T01:42:25+00:00,Wallet,Expense,Food & Drinks,-18,,,Jerome C
+2020-07-12T02:02:30+00:00,Wallet,Expense,Food & Drinks,-13.32,,,Jerome C
+2020-07-12T12:24:47+00:00,Wallet,Expense,Food & Drinks,-65.52,,,Jerome C
+2020-07-13T02:42:21+00:00,Wallet,Expense,Gifts,-72,,,Jerome C
+2020-07-13T02:42:29+00:00,Wallet,Expense,Food & Drinks,-19.8,,,Jerome C
+2020-07-15T01:26:19+00:00,Wallet,Expense,Investment,-24.12,notionapp,#notionapp,Jerome C
+2020-07-16T01:13:25+00:00,Wallet,Expense,Food & Drinks,-26.46,,,Jerome C
+2020-07-16T14:47:25+00:00,Wallet,Expense,Food & Drinks,-71.28,,,Jerome C
+2020-07-18T02:03:54+00:00,Wallet,Expense,Books,-18,calcworkshop,#calcworkshop,Jerome C
+2020-07-18T08:12:06+00:00,Wallet,Expense,Gifts,-158.4,,,Jerome C
+2020-07-18T12:55:11+00:00,Wallet,Income,Salary,11110000,,,Jerome C
+2020-07-18T12:55:11+00:00,Wallet,Expense,Gifts,-7.2,jasjas,#jasjas,Jerome C
+2020-07-18T12:55:31+00:00,Wallet,Expense,Food & Drinks,-91.8,,,Jerome C
+2020-07-18T12:55:39+00:00,Wallet,Expense,Food & Drinks,-21.6,,,Jerome C
+2020-07-18T12:55:52+00:00,Wallet,Expense,Gifts,-28.44,jasjas,#jasjas,Jerome C
+2020-07-18T13:18:13+00:00,Wallet,Expense,Food & Drinks,-38.88,,,Jerome C
+2020-07-18T15:38:42+00:00,Wallet,Expense,Food & Drinks,-54,,,Jerome C
+2020-07-20T03:50:48+00:00,Wallet,Expense,Investment,-54,sonyheadphones,#sonyheadphones,Jerome C
+2020-07-21T05:12:53+00:00,Wallet,Expense,Food & Drinks,-286.56,,,Jerome C
+2020-07-21T05:12:57+00:00,Wallet,Expense,Gifts,-51.84,,,Jerome C
+2020-07-23T15:30:28+00:00,Wallet,Expense,Food & Drinks,-14.4,,,Jerome C
+2020-07-24T01:16:09+00:00,Wallet,Expense,Food & Drinks,-54,,,Jerome C
+2020-07-24T04:40:22+00:00,Wallet,Expense,Investment,-50.4,icloudstorage,#icloudstorage,Jerome C
+2020-07-24T16:00:00+00:00,Wallet,Expense,Investment,-4.608,,insurance,Jerome C
+2020-07-25T01:32:41+00:00,Wallet,Expense,Food & Drinks,-315,,,Jerome C
+2020-07-26T03:53:49+00:00,Wallet,Expense,Food & Drinks,-69.48,,,Jerome C
+2020-07-29T03:36:30+00:00,Wallet,Expense,Bills,-65.16,microsoft office,,Jerome C
+2020-07-29T07:17:04+00:00,Wallet,Expense,Food & Drinks,-38.88,,,Jerome C
+2020-07-30T01:20:26+00:00,Wallet,Income,Salary,-81,,,Jerome C
+2020-07-31T01:14:34+00:00,Wallet,Expense,Food & Drinks,12960,,,Jerome C
+2020-07-31T23:32:12+00:00,Wallet,Expense,Transportation,-69.624,,,Jerome C
+2020-07-31T23:32:17+00:00,Wallet,Expense,Food & Drinks,-73.44,,,Jerome C
+2020-07-31T23:32:33+00:00,Wallet,Expense,Food & Drinks,-30.24,,,Jerome C
+2020-08-01T04:28:27+00:00,Wallet,Expense,Books,-18.72,,,Jerome C
+2020-08-02T06:05:36+00:00,Wallet,Income,Salary,1200000,,,Jerome C
+2020-08-02T06:05:36+00:00,Wallet,Expense,Food & Drinks,-398.988,,,Jerome C
+2020-08-02T15:10:23+00:00,Wallet,Expense,Transportation,-65.52,,,Jerome C
+2020-08-02T15:10:43+00:00,Wallet,Expense,Transportation,-38.88,,,Jerome C
+2020-08-03T13:32:27+00:00,Wallet,Expense,Bills,-36,handphonebills,#handphonebills,Jerome C
+2020-08-04T15:10:05+00:00,Wallet,Expense,Food & Drinks,-173.7,,,Jerome C
+2020-08-05T12:26:02+00:00,Wallet,Expense,Food & Drinks,-18.72,,,Jerome C
+2020-08-06T03:24:19+00:00,Wallet,Expense,Stationery,-115.2,,,Jerome C
+2020-08-06T04:51:23+00:00,Wallet,Expense,Medical,-52.2,,,Jerome C
+2020-08-06T04:59:02+00:00,Wallet,Expense,Food & Drinks,-210.6,,,Jerome C
+2020-08-07T10:32:30+00:00,Wallet,Expense,Books,-39.6,datacamp,#datacamp,Jerome C
+2020-08-07T10:48:04+00:00,Wallet,Expense,Food & Drinks,-67.392,,,Jerome C
+2020-08-09T04:47:32+00:00,Wallet,Expense,Haircuts,-64.8,,,Jerome C
+2020-08-09T04:59:30+00:00,Wallet,Expense,Food & Drinks,-144,,,Jerome C
+2020-08-09T04:59:42+00:00,Wallet,Expense,Gifts,-53.28,,,Jerome C
+2020-08-10T00:54:30+00:00,Wallet,Expense,Food & Drinks,-42.12,,,Jerome C
+2020-08-10T08:40:43+00:00,Wallet,Expense,Food & Drinks,-69.12,,,Jerome C
+2020-08-10T08:40:46+00:00,Wallet,Expense,Gifts,-12.96,,,Jerome C
+2020-08-10T08:45:54+00:00,Wallet,Expense,Food & Drinks,-7.2,,,Jerome C
+2020-08-11T02:59:51+00:00,Wallet,Expense,Food & Drinks,-102.132,,,Jerome C
+2020-08-12T02:59:59+00:00,Wallet,Expense,Food & Drinks,-12.96,,,Jerome C
+2020-08-12T06:32:07+00:00,Wallet,Expense,Food & Drinks,-43.2,,,Jerome C
+2020-08-14T05:13:21+00:00,Wallet,Expense,Food & Drinks,-66.96,deliverooplus1month,#deliverooplus1month,Jerome C
+2020-08-14T05:15:55+00:00,Wallet,Expense,Food & Drinks,-60.84,,,Jerome C
+2020-08-14T09:02:43+00:00,Wallet,Expense,Food & Drinks,-79.92,,,Jerome C
+2020-08-14T09:02:50+00:00,Wallet,Expense,Gifts,-36,,,Jerome C
+2020-08-15T00:16:28+00:00,Wallet,Expense,Food & Drinks,-33.12,,,Jerome C
+2020-08-15T01:26:19+00:00,Wallet,Expense,Investment,-156.6,notionapp,#notionapp,Jerome C
+2020-08-16T02:25:44+00:00,Wallet,Expense,Gifts,-26.46,,,Jerome C
+2020-08-16T02:25:55+00:00,Wallet,Expense,Food & Drinks,-30.24,,,Jerome C
+2020-08-18T02:03:47+00:00,Wallet,Expense,Gifts,-46.08,honor,#honor,Jerome C
+2020-08-19T12:24:08+00:00,Wallet,Expense,Food & Drinks,-360,,,Jerome C
+2020-08-19T12:24:22+00:00,Wallet,Expense,Books,-25.92,calcworkshop,#calcworkshop,Jerome C
+2020-08-20T03:50:48+00:00,Wallet,Expense,Investment,-151.2,sonyheadphones,#sonyheadphones,Jerome C
+2020-08-20T10:19:07+00:00,Wallet,Expense,Food & Drinks,-286.56,,,Jerome C
+2020-08-20T10:19:11+00:00,Wallet,Expense,Gifts,-37.62,,,Jerome C
+2020-08-21T05:54:57+00:00,Wallet,Expense,Food & Drinks,-32.4,,,Jerome C
+2020-08-21T05:55:15+00:00,Wallet,Expense,Food & Drinks,-60.12,,,Jerome C
+2020-08-21T05:55:23+00:00,Wallet,Expense,Gifts,-21.6,,,Jerome C
+2020-08-22T03:16:27+00:00,Wallet,Expense,Food & Drinks,-29.88,,,Jerome C
+2020-08-22T03:16:32+00:00,Wallet,Expense,Food & Drinks,-61.92,,,Jerome C
+2020-08-22T03:16:39+00:00,Wallet,Expense,Gifts,-11.52,,,Jerome C
+2020-08-23T06:41:18+00:00,Wallet,Expense,Food & Drinks,-46.08,,,Jerome C
+2020-08-24T04:15:30+00:00,Wallet,Expense,Food & Drinks,-65.52,,,Jerome C
+2020-08-24T04:40:22+00:00,Wallet,Expense,Investment,-27,icloudstorage,#icloudstorage,Jerome C
+2020-08-24T16:00:00+00:00,Wallet,Expense,Investment,-4.608,insurance,,Jerome C
+2020-08-24T16:15:37+00:00,Wallet,Expense,Food & Drinks,-315,,,Jerome C
+2020-08-25T00:45:28+00:00,Wallet,Expense,Food & Drinks,-31.68,,,Jerome C
+2020-08-26T11:38:41+00:00,Wallet,Expense,Medical,-76.32,doctor,#doctor,Jerome C
+2020-08-26T11:46:48+00:00,Wallet,Expense,Food & Drinks,-211.86,,,Jerome C
+2020-08-26T12:15:16+00:00,Wallet,Expense,Food & Drinks,-28.8,,,Jerome C
+2020-08-27T01:44:48+00:00,Wallet,Expense,Food & Drinks,-55.8,,,Jerome C
+2020-08-29T03:36:30+00:00,Wallet,Expense,Bills,-65.52,microsoft office,,Jerome C
+2020-08-30T01:20:26+00:00,Wallet,Income,Salary,-38.88,,,Jerome C
+2020-08-30T02:41:27+00:00,Wallet,Expense,Food & Drinks,12960,,,Jerome C
+2020-08-30T15:10:14+00:00,Wallet,Expense,Food & Drinks,-65.52,,,Jerome C
+2020-08-31T09:12:30+00:00,Wallet,Expense,Food & Drinks,-20.52,,,Jerome C
+2020-08-31T09:12:35+00:00,Wallet,Expense,Gifts,-73.8,,,Jerome C
+2020-09-01T01:46:29+00:00,Wallet,Expense,Food & Drinks,-25.2,,,Jerome C
+2020-09-01T04:04:14+00:00,Wallet,Expense,Food & Drinks,-14.76,,,Jerome C
+2020-09-01T04:28:27+00:00,Wallet,Expense,Books,-75.6,nodejs,#nodejs,Jerome C
+2020-09-01T09:31:56+00:00,Wallet,Expense,Books,-398.988,Symbolab,,Jerome C
+2020-09-02T14:22:53+00:00,Wallet,Expense,Food & Drinks,-56.34,,,Jerome C
+2020-09-03T06:46:45+00:00,Wallet,Expense,Food & Drinks,-104.4,,,Jerome C
+2020-09-03T06:46:49+00:00,Wallet,Expense,Gifts,-23.4,,,Jerome C
+2020-09-03T13:32:27+00:00,Wallet,Expense,Bills,-21.6,handphonebills,#handphonebills,Jerome C
+2020-09-04T00:32:45+00:00,Wallet,Expense,Books,-173.7,,,Jerome C
+2020-09-04T04:07:39+00:00,Wallet,Expense,Food & Drinks,-214.56,,,Jerome C
+2020-09-04T04:07:46+00:00,Wallet,Expense,Haircuts,-16.2,,,Jerome C
+2020-09-04T06:45:00+00:00,Wallet,Expense,Food & Drinks,-115.2,,,Jerome C
+2020-09-05T06:21:15+00:00,Wallet,Expense,Medical,-25.92,,,Jerome C
+2020-09-05T06:21:26+00:00,Wallet,Income,Salary,1200000,,,Jerome C
+2020-09-05T06:21:26+00:00,Wallet,Expense,Food & Drinks,-7.2,,,Jerome C
+2020-09-05T14:14:34+00:00,Wallet,Expense,Food & Drinks,-27,,,Jerome C
+2020-09-05T15:34:36+00:00,Wallet,Expense,Entertainment,-96.84,,,Jerome C
+2020-09-07T10:32:30+00:00,Wallet,Expense,Books,-99,Datacamp,#Datacamp,Jerome C
+2020-09-08T00:09:21+00:00,Wallet,Expense,Food & Drinks,-67.392,,,Jerome C
+2020-09-08T00:09:41+00:00,Wallet,Expense,Gifts,-41.04,honor,#honor,Jerome C
+2020-09-09T00:09:14+00:00,Wallet,Expense,Food & Drinks,-360,,,Jerome C
+2020-09-09T13:43:34+00:00,Wallet,Expense,Gifts,-41.58,,,Jerome C
+2020-09-09T13:43:45+00:00,Wallet,Expense,Food & Drinks,-48.96,,,Jerome C
+2020-09-09T13:43:58+00:00,Wallet,Expense,Shopping,-136.8,,,Jerome C
+2020-09-09T13:44:25+00:00,Wallet,Expense,Food & Drinks,-151.2,,,Jerome C
+2020-09-11T04:11:31+00:00,Wallet,Expense,Food & Drinks,-16.56,,,Jerome C
+2020-09-11T23:59:35+00:00,Wallet,Expense,Entertainment,-26.28,,,Jerome C
+2020-09-12T06:21:09+00:00,Wallet,Expense,Food & Drinks,-35.64,,,Jerome C
+2020-09-12T14:14:29+00:00,Wallet,Expense,Food & Drinks,-112.32,,,Jerome C
+2020-09-13T00:58:53+00:00,Wallet,Expense,Food & Drinks,-118.8,,,Jerome C
+2020-09-13T04:46:45+00:00,Wallet,Expense,Food & Drinks,-45.432,,,Jerome C
+2020-09-13T06:37:24+00:00,Wallet,Expense,Food & Drinks,-43.2,,,Jerome C
+2020-09-14T04:46:16+00:00,Wallet,Expense,Food & Drinks,-53.64,,,Jerome C
+2020-09-14T04:46:35+00:00,Wallet,Expense,Gifts,-14.4,,,Jerome C
+2020-09-15T01:26:19+00:00,Wallet,Expense,Investment,-144,notionapp,#notionapp,Jerome C
+2020-09-16T15:09:34+00:00,Wallet,Expense,Food & Drinks,-26.46,,,Jerome C
+2020-09-17T00:17:23+00:00,Wallet,Expense,Food & Drinks,-54,,,Jerome C
+2020-09-17T00:27:28+00:00,Wallet,Expense,Gifts,-42.48,,,Jerome C
+2020-09-17T10:24:21+00:00,Wallet,Expense,Food & Drinks,-144,,,Jerome C
+2020-09-20T03:50:48+00:00,Wallet,Expense,Investment,-27.36,sonyheadphones,#sonyheadphones,Jerome C
+2020-09-20T08:13:39+00:00,Wallet,Expense,Food & Drinks,-286.56,,,Jerome C
+2020-09-23T07:32:16+00:00,Wallet,Expense,Food & Drinks,-72,,,Jerome C
+2020-09-24T00:47:33+00:00,Wallet,Expense,Food & Drinks,-31.32,,,Jerome C
+2020-09-24T03:43:51+00:00,Wallet,Expense,Food & Drinks,-21.96,,,Jerome C
+2020-09-24T04:40:22+00:00,Wallet,Expense,Investment,-25.2,icloudstorage,#icloudstorage,Jerome C
+2020-09-24T16:00:00+00:00,Wallet,Expense,Investment,-4.608,,insurance,Jerome C
+2020-09-25T08:13:17+00:00,Wallet,Expense,Food & Drinks,-315,,,Jerome C
+2020-09-26T03:41:36+00:00,Wallet,Expense,Food & Drinks,-23.76,,,Jerome C
+2020-09-26T08:12:57+00:00,Wallet,Expense,Food & Drinks,-93.6,,,Jerome C
+2020-09-26T08:13:01+00:00,Wallet,Expense,Gifts,-28.44,,,Jerome C
+2020-09-27T02:06:40+00:00,Wallet,Expense,Food & Drinks,-12.24,,,Jerome C
+2020-09-27T07:23:56+00:00,Wallet,Expense,Food & Drinks,-34.56,,,Jerome C
+2020-09-28T12:33:49+00:00,Wallet,Expense,Food & Drinks,-46.44,,,Jerome C
+2020-09-28T12:33:56+00:00,Wallet,Expense,Gifts,-50.04,samuel,#samuel,Jerome C
+2020-09-28T13:23:46+00:00,Wallet,Expense,Food & Drinks,-36,mooncakes,#mooncakes,Jerome C
+2020-09-29T03:36:30+00:00,Wallet,Expense,Bills,-100.8,,microsoft office,Jerome C
+2020-09-29T12:34:09+00:00,Wallet,Expense,Food & Drinks,-38.88,,,Jerome C
+2020-09-30T01:20:26+00:00,Wallet,Income,Salary,-32.4,,,Jerome C
+2020-10-01T02:01:01+00:00,Wallet,Expense,Books,12960,,,Jerome C
+2020-10-01T04:28:27+00:00,Wallet,Expense,Books,-173.232,nodejs,#nodejs,Jerome C
+2020-10-01T04:35:24+00:00,Wallet,Expense,Haircuts,-398.988,,,Jerome C
+2020-10-01T04:35:33+00:00,Wallet,Expense,Gifts,-115.2,,,Jerome C
+2020-10-01T04:35:44+00:00,Wallet,Expense,Shopping,-3.6,soccerball,#soccerball,Jerome C
+2020-10-01T04:35:56+00:00,Wallet,Expense,Food & Drinks,-126,,,Jerome C
+2020-10-01T14:10:01+00:00,Wallet,Expense,Food & Drinks,-11.16,,,Jerome C
+2020-10-01T14:25:05+00:00,Wallet,Income,Salary,1200000,,,Jerome C
+2020-10-01T14:25:05+00:00,Wallet,Expense,Gifts,-30.96,birthdayguardian,#birthdayguardian,Jerome C
+2020-10-01T14:25:21+00:00,Wallet,Expense,Gifts,-180,fangbert,#fangbert,Jerome C
+2020-10-02T23:45:39+00:00,Wallet,Expense,Food & Drinks,-180,,,Jerome C
+2020-10-02T23:45:50+00:00,Wallet,Expense,Gifts,-28.8,,,Jerome C
+2020-10-03T13:32:27+00:00,Wallet,Expense,Bills,-28.8,handphonebills,#handphonebills,Jerome C
+2020-10-05T23:46:10+00:00,Wallet,Expense,Food & Drinks,-173.7,,,Jerome C
+2020-10-06T04:21:22+00:00,Wallet,Expense,Gifts,-14.4,honor,#honor,Jerome C
+2020-10-07T04:37:02+00:00,Wallet,Expense,Food & Drinks,-360,,,Jerome C
+2020-10-08T00:36:09+00:00,Wallet,Expense,Food & Drinks,-25.2,,,Jerome C
+2020-10-09T00:35:52+00:00,Wallet,Expense,Food & Drinks,-9,,,Jerome C
+2020-10-10T00:52:05+00:00,Wallet,Expense,Food & Drinks,-74.124,,,Jerome C
+2020-10-10T00:52:09+00:00,Wallet,Expense,Food & Drinks,-43.92,,,Jerome C
+2020-10-11T13:05:41+00:00,Wallet,Expense,Food & Drinks,-54,,,Jerome C
+2020-10-11T13:05:52+00:00,Wallet,Expense,Food & Drinks,-25.2,,,Jerome C
+2020-10-11T13:06:00+00:00,Wallet,Expense,Food & Drinks,-10.8,,,Jerome C
+2020-10-14T02:17:09+00:00,Wallet,Expense,Food & Drinks,-15.84,,,Jerome C
+2020-10-14T09:42:07+00:00,Wallet,Expense,Food & Drinks,-55.8,,,Jerome C
+2020-10-14T09:42:13+00:00,Wallet,Expense,Gifts,-21.6,,,Jerome C
+2020-10-15T09:42:01+00:00,Wallet,Expense,Food & Drinks,-10.8,,,Jerome C
+2020-10-15T10:52:54+00:00,Wallet,Expense,Food & Drinks,-14.76,,,Jerome C
+2020-10-15T10:53:21+00:00,Wallet,Expense,Church,-37.8,church,#church,Jerome C
+2020-10-16T00:44:23+00:00,Wallet,Expense,Books,-37.8,calcworkshop,#calcworkshop,Jerome C
+2020-10-16T01:30:34+00:00,Wallet,Expense,Medical,-144,,Dental,Jerome C
+2020-10-16T10:53:33+00:00,Wallet,Expense,Food & Drinks,-72,,,Jerome C
+2020-10-18T01:55:53+00:00,Wallet,Expense,Shopping,-25.2,clothes,#clothes,Jerome C
+2020-10-18T14:20:14+00:00,Wallet,Expense,Food & Drinks,-89.64,,,Jerome C
+2020-10-18T14:20:28+00:00,Wallet,Expense,Gifts,-108,jasjas,#jasjas,Jerome C
+2020-10-19T10:41:50+00:00,Wallet,Expense,Food & Drinks,-93.24,,,Jerome C
+2020-10-19T10:41:57+00:00,Wallet,Expense,Food & Drinks,-10.8,,,Jerome C
+2020-10-20T03:50:48+00:00,Wallet,Expense,Investment,-27.72,SonyHeadphones,#SonyHeadphones,Jerome C
+2020-10-20T03:50:48+00:00,Wallet,Expense,Investment,-286.56,SonyHeadphones,#SonyHeadphones,Jerome C
+2020-10-21T10:20:56+00:00,Wallet,Expense,Food & Drinks,-286.56,,,Jerome C
+2020-10-21T10:21:15+00:00,Wallet,Expense,Food & Drinks,-57.6,,,Jerome C
+2020-10-21T10:21:19+00:00,Wallet,Expense,Food & Drinks,-43.2,,,Jerome C
+2020-10-22T03:38:34+00:00,Wallet,Expense,Food & Drinks,-28.8,,,Jerome C
+2020-10-22T15:43:41+00:00,Wallet,Expense,Food & Drinks,-12.6,,,Jerome C
+2020-10-23T11:20:13+00:00,Wallet,Expense,Food & Drinks,-158.04,,,Jerome C
+2020-10-24T03:43:31+00:00,Wallet,Expense,Food & Drinks,-53.64,,,Jerome C
+2020-10-24T03:43:37+00:00,Wallet,Expense,Sports,-27.72,,,Jerome C
+2020-10-24T04:40:22+00:00,Wallet,Expense,Investment,-43.2,icloudstorage,#icloudstorage,Jerome C
+2020-10-24T16:00:00+00:00,Wallet,Expense,Investment,-4.608,insurance,,Jerome C
+2020-10-24T16:00:00+00:00,Wallet,Expense,Investment,-315,insurance,,Jerome C
+2020-10-24T16:00:00+00:00,Wallet,Expense,Investment,-315,insurance,,Jerome C
+2020-10-24T16:00:00+00:00,Wallet,Expense,Investment,-315,insurance,,Jerome C
+2020-10-25T05:30:23+00:00,Wallet,Expense,Food & Drinks,-315,,,Jerome C
+2020-10-25T05:30:30+00:00,Wallet,Expense,Gifts,-37.044,,,Jerome C
+2020-10-26T05:30:02+00:00,Wallet,Expense,Food & Drinks,-18,,,Jerome C
+2020-10-26T05:33:08+00:00,Wallet,Expense,Food & Drinks,-25.2,,,Jerome C
+2020-10-27T01:55:07+00:00,Wallet,Expense,Food & Drinks,-54.684,,,Jerome C
+2020-10-28T01:54:29+00:00,Wallet,Expense,Food & Drinks,-14.76,,,Jerome C
+2020-10-28T10:46:55+00:00,Wallet,Expense,Food & Drinks,-56.484,Check who owes,,Jerome C
+2020-10-29T03:36:30+00:00,Wallet,Expense,Bills,-18,microsoft office,,Jerome C
+2020-10-29T12:54:24+00:00,Wallet,Expense,Food & Drinks,-38.88,,,Jerome C
+2020-10-30T01:20:26+00:00,Wallet,Income,Salary,-50.4,,,Jerome C
+2020-10-31T06:23:02+00:00,Wallet,Expense,Food & Drinks,12960,,,Jerome C
+2020-11-01T01:56:17+00:00,Wallet,Expense,Shopping,-198,clothes,#clothes,Jerome C
+2020-11-01T03:14:14+00:00,Wallet,Expense,Stationery,-180,,,Jerome C
+2020-11-01T04:28:27+00:00,Wallet,Expense,Books,-89.28,nodejs,#nodejs,Jerome C
+2020-11-01T11:41:55+00:00,Wallet,Expense,Transportation,-398.988,,,Jerome C
+2020-11-03T03:44:19+00:00,Wallet,Expense,Investment,-118.8,monitor stand,,Jerome C
+2020-10-01T14:25:05+00:00,Wallet,Income,Salary,200000,,,Jerome C
+2020-11-03T03:44:30+00:00,Wallet,Expense,Food & Drinks,-109.764,,,Jerome C
+2020-11-03T04:18:25+00:00,Wallet,Expense,Investment,-13.68,desk pad,,Jerome C
+2020-11-03T13:32:27+00:00,Wallet,Expense,Bills,-121.464,handphonebills,#handphonebills,Jerome C
+2020-11-03T15:45:52+00:00,Wallet,Expense,Investment,-173.7,secretlab,#secretlab,Jerome C
+2020-11-04T06:22:42+00:00,Wallet,Expense,Food & Drinks,-448.2,,,Jerome C
+2020-11-04T06:24:02+00:00,Wallet,Expense,Books,-64.62,,,Jerome C
+2020-11-06T03:21:07+00:00,Wallet,Expense,Books,-38.52,,,Jerome C
+2020-11-06T03:21:30+00:00,Wallet,Expense,Investment,-799.2,Mijia Bedside Lamp,,Jerome C
+2020-11-06T04:07:24+00:00,Wallet,Expense,Food & Drinks,-160.2,,,Jerome C
+2020-11-07T10:32:30+00:00,Wallet,Expense,Books,-24.48,Datacamp,#Datacamp,Jerome C
+2020-11-10T02:23:06+00:00,Wallet,Expense,Food & Drinks,-67.392,,,Jerome C
+2020-11-10T09:43:34+00:00,Wallet,Expense,Haircuts,-81.684,,,Jerome C
+2020-11-13T00:12:14+00:00,Wallet,Expense,Food & Drinks,-115.2,,,Jerome C
+2020-11-14T01:20:26+00:00,Wallet,Expense,Food & Drinks,-128.88,,,Jerome C
+2020-11-14T08:24:57+00:00,Wallet,Expense,Investment,-67.32,earplugs,#earplugs,Jerome C
+2020-11-15T01:26:19+00:00,Wallet,Expense,Investment,-356.4,NotionApp,#NotionApp,Jerome C
+2020-11-16T03:33:03+00:00,Wallet,Expense,Food & Drinks,-26.46,,,Jerome C
+2020-11-17T12:03:24+00:00,Wallet,Expense,Food & Drinks,-64.8,,,Jerome C
+2020-11-18T07:09:29+00:00,Wallet,Expense,Food & Drinks,-20.52,,,Jerome C
+2020-11-19T07:45:47+00:00,Wallet,Expense,Food & Drinks,-83.52,,,Jerome C
+2020-11-19T07:45:52+00:00,Wallet,Expense,Gifts,-58.68,,,Jerome C
+2020-11-19T07:47:42+00:00,Wallet,Expense,Investment,-22.68,,,Jerome C
+2020-11-20T03:50:48+00:00,Wallet,Expense,Investment,-1488.6,SonyHeadphones,#SonyHeadphones,Jerome C
+2020-11-20T11:58:39+00:00,Wallet,Expense,Food & Drinks,-286.56,,,Jerome C
+2020-11-20T11:58:45+00:00,Wallet,Expense,Food & Drinks,-22.32,,,Jerome C
+2020-11-20T11:59:02+00:00,Wallet,Expense,Medical,-39.24,,,Jerome C
+2020-11-21T04:50:08+00:00,Wallet,Expense,Food & Drinks,-210.6,,,Jerome C
+2020-11-22T01:07:54+00:00,Wallet,Expense,Food & Drinks,-102.96,,,Jerome C
+2020-11-22T11:50:48+00:00,Wallet,Expense,Food & Drinks,-22.32,,,Jerome C
+2020-11-22T11:50:53+00:00,Wallet,Expense,Food & Drinks,-22.68,,,Jerome C
+2020-11-23T01:07:31+00:00,Wallet,Expense,Transportation,-71.64,ezlink,#ezlink,Jerome C
+2020-11-24T04:40:22+00:00,Wallet,Expense,Investment,-72,icloudstorage,#icloudstorage,Jerome C
+2020-11-24T16:00:00+00:00,Wallet,Expense,Investment,-4.608,insurance,,Jerome C
+2020-11-25T00:54:30+00:00,Wallet,Expense,Food & Drinks,-315,,,Jerome C
+2020-11-27T12:52:02+00:00,Wallet,Expense,Transportation,-65.52,,,Jerome C
+2020-11-27T14:57:55+00:00,Wallet,Expense,Food & Drinks,-37.8,,,Jerome C
+2020-11-27T14:58:10+00:00,Wallet,Expense,Gifts,-53.64,,,Jerome C
+2020-11-28T09:48:56+00:00,Wallet,Expense,Food & Drinks,-10.8,,,Jerome C
+2020-11-28T09:49:02+00:00,Wallet,Expense,Gifts,-32.04,,,Jerome C
+2020-11-29T03:36:30+00:00,Wallet,Expense,Bills,-36,microsoft office,,Jerome C
+2020-11-30T01:20:26+00:00,Wallet,Income,Salary,-38.88,,,Jerome C
+2020-12-01T04:28:27+00:00,Wallet,Expense,Books,12960,nodejs,#nodejs,Jerome C
+2020-12-01T05:21:13+00:00,Wallet,Expense,Food & Drinks,-398.988,,,Jerome C
+2020-12-01T07:46:25+00:00,Wallet,Expense,Investment,-16.2,secretlab,#secretlab,Jerome C
+2020-12-01T10:47:12+00:00,Wallet,Expense,Books,-449.1,datastructures,#datastructures,Jerome C
+2020-12-01T10:47:29+00:00,Wallet,Expense,Food & Drinks,-64.728,coffee,#coffee,Jerome C
+2020-12-01T15:44:09+00:00,Wallet,Income,Salary,200000,,,Jerome C
+2020-12-01T15:44:09+00:00,Wallet,Expense,Investment,-248.4,secretlab,#secretlab,Jerome C
+2020-12-02T06:06:37+00:00,Wallet,Expense,Food & Drinks,-898.2,,,Jerome C
+2020-12-02T06:06:42+00:00,Wallet,Expense,Food & Drinks,-14.76,,,Jerome C
+2020-12-03T06:06:16+00:00,Wallet,Expense,Food & Drinks,-13.68,,,Jerome C
+2020-12-03T06:06:20+00:00,Wallet,Expense,Gifts,-41.904,,,Jerome C
+2020-12-03T13:32:27+00:00,Wallet,Expense,Bills,-25.2,handphonebills,#handphonebills,Jerome C
+2020-12-04T05:33:39+00:00,Wallet,Expense,Gifts,-173.7,christmas,#christmas,Jerome C
+2020-12-05T01:28:56+00:00,Wallet,Expense,Food & Drinks,-113.004,,,Jerome C
+2020-12-05T02:19:08+00:00,Wallet,Expense,Food & Drinks,-67.32,,,Jerome C
+2020-12-06T02:18:52+00:00,Wallet,Expense,Investment,-21.6,chaircovering,#chaircovering,Jerome C
+2020-12-06T02:19:00+00:00,Wallet,Expense,Food & Drinks,-56.124,,,Jerome C
+2020-12-06T10:22:44+00:00,Wallet,Expense,Food & Drinks,-74.88,,,Jerome C
+2020-12-07T10:32:30+00:00,Wallet,Expense,Books,-60.84,Datacamp,#Datacamp,Jerome C
+2020-12-09T10:03:44+00:00,Wallet,Expense,Haircuts,-67.392,,,Jerome C
+2020-12-09T12:14:00+00:00,Wallet,Expense,Shopping,-115.2,,,Jerome C
+2020-12-12T02:36:26+00:00,Wallet,Expense,Gifts,-24.84,wedding,#wedding,Jerome C
+2020-12-12T05:12:01+00:00,Wallet,Expense,Food & Drinks,-720,,,Jerome C
+2020-12-12T13:38:05+00:00,Wallet,Expense,Food & Drinks,-97.2,,,Jerome C
+2020-12-12T13:38:35+00:00,Wallet,Expense,Shopping,-32.4,macbookskin,#macbookskin,Jerome C
+2020-12-13T13:37:56+00:00,Wallet,Expense,Food & Drinks,-342.684,,,Jerome C
+2020-12-14T04:12:26+00:00,Wallet,Expense,Food & Drinks,-24.48,,,Jerome C
+2020-12-15T01:26:19+00:00,Wallet,Expense,Investment,-21.96,,#NotionApp,Jerome C
+2020-12-16T01:30:15+00:00,Wallet,Expense,Food & Drinks,-26.46,,,Jerome C
+2020-12-16T14:48:01+00:00,Wallet,Expense,Food & Drinks,-18.72,,,Jerome C
+2020-12-17T03:42:41+00:00,Wallet,Expense,Food & Drinks,-78.48,,,Jerome C
+2020-12-18T11:23:10+00:00,Wallet,Expense,Food & Drinks,-39.24,,,Jerome C
+2020-12-20T01:27:17+00:00,Wallet,Expense,Food & Drinks,-36.72,,,Jerome C
+2020-12-20T03:50:48+00:00,Wallet,Expense,Investment,-28.8,SonyHeadphones,#SonyHeadphones,Jerome C
+2020-12-20T09:24:18+00:00,Wallet,Expense,Gifts,-286.56,prashanth,,Jerome C
+2020-12-20T12:07:15+00:00,Wallet,Expense,Food & Drinks,-120.96,,,Jerome C
+2020-12-20T15:24:53+00:00,Wallet,Expense,Food & Drinks,-16.2,,,Jerome C
+2020-12-21T01:26:45+00:00,Wallet,Expense,Food & Drinks,-22.32,,,Jerome C
+2020-12-21T01:26:54+00:00,Wallet,Expense,Food & Drinks,-14.76,,,Jerome C
+2020-12-22T01:27:03+00:00,Wallet,Expense,Food & Drinks,-9.72,,,Jerome C
+2020-12-23T13:42:51+00:00,Wallet,Expense,Food & Drinks,-23.76,,,Jerome C
+2020-12-24T04:40:22+00:00,Wallet,Expense,Investment,-27.36,icloudstorage,#icloudstorage,Jerome C
+2020-12-24T05:12:05+00:00,Wallet,Expense,Food & Drinks,-4.608,,,Jerome C
+2020-12-24T13:26:15+00:00,Wallet,Expense,Investment,-63.54,logitech mouse,,Jerome C
+2020-12-24T13:28:00+00:00,Wallet,Expense,Investment,-547.2,macbook pro,,Jerome C
+2020-12-25T13:47:07+00:00,Wallet,Expense,Food & Drinks,-785.412,,,Jerome C
+2020-12-25T13:47:14+00:00,Wallet,Expense,Food & Drinks,-33.48,,,Jerome C
+2020-12-25T15:50:34+00:00,Wallet,Expense,Books,-23.4,,,Jerome C
+2020-12-27T01:52:24+00:00,Wallet,Expense,Food & Drinks,-234,,,Jerome C
+2020-12-27T02:59:26+00:00,Wallet,Expense,Entertainment,-79.2,movie,,Jerome C
+2020-12-27T09:56:50+00:00,Wallet,Expense,Food & Drinks,-52.2,,,Jerome C
+2020-12-28T05:29:37+00:00,Wallet,Expense,Food & Drinks,-32.4,,,Jerome C
+2020-12-29T01:51:49+00:00,Wallet,Expense,Food & Drinks,-16.56,,,Jerome C
+2020-12-30T01:20:26+00:00,Wallet,Income,Salary,-25.2,,,Jerome C
+2020-12-30T05:22:54+00:00,Wallet,Expense,Books,12960,frontendmasters,,Jerome C
+2020-12-30T13:26:18+00:00,Wallet,Expense,Gifts,-180,hokai,,Jerome C
+2020-12-30T13:26:25+00:00,Wallet,Expense,Food & Drinks,-65.88,,,Jerome C
+2020-12-30T13:26:35+00:00,Wallet,Expense,Food & Drinks,-80.28,,,Jerome C
+2020-12-31T10:23:42+00:00,Wallet,Expense,Food & Drinks,-19.8,,,Jerome C
+2020-12-31T14:07:04+00:00,Wallet,Expense,Transportation,-60.804,ezlink,#ezlink,Jerome C
+2020-12-31T14:22:39+00:00,Wallet,Expense,Food & Drinks,-72,,,Jerome C
+2020-12-31T14:22:44+00:00,Wallet,Expense,Gifts,-17.64,,,Jerome C
+2020-12-31T17:10:11+00:00,Wallet,Expense,Transportation,-17.64,,,Jerome C
+2021-01-01T00:58:35+00:00,Wallet,Expense,Books,-50.4,golang,#golang,Jerome C
+2021-01-01T01:14:15+00:00,Wallet,Expense,Food & Drinks,-71.964,,,Jerome C
+2021-01-01T04:13:07+00:00,Wallet,Expense,Food & Drinks,-86.4,,,Jerome C
+2021-01-01T04:13:34+00:00,Wallet,Expense,Gifts,-28.8,gege birthday,,Jerome C
+2021-01-01T07:56:22+00:00,Wallet,Expense,Books,-122.4,,,Jerome C
+2021-01-02T13:41:40+00:00,Wallet,Expense,Food & Drinks,-115.2,groceries,#groceries,Jerome C
+2021-01-03T08:30:49+00:00,Wallet,Expense,Gifts,-165.96,,,Jerome C
+2021-01-03T11:49:21+00:00,Wallet,Expense,Food & Drinks,-3.6,,,Jerome C
+2021-01-03T11:49:43+00:00,Wallet,Expense,Food & Drinks,-19.8,,,Jerome C
+2021-01-03T12:27:54+00:00,Wallet,Expense,Food & Drinks,-64.8,,,Jerome C
+2021-01-03T13:32:27+00:00,Wallet,Expense,Bills,-61.92,handphonebills,#handphonebills,Jerome C
+2021-01-04T15:21:33+00:00,Wallet,Expense,Investment,-173.7,magnet,,Jerome C
+2021-01-04T15:21:40+00:00,Wallet,Expense,Food & Drinks,-21.528,,,Jerome C
+2021-01-05T01:19:14+00:00,Wallet,Expense,Food & Drinks,-12.24,,,Jerome C
+2021-01-05T04:17:11+00:00,Wallet,Expense,Books,-61.92,,,Jerome C
+2021-01-06T06:38:17+00:00,Wallet,Expense,Food & Drinks,-385.2,,,Jerome C
+2021-01-06T06:38:21+00:00,Wallet,Expense,Food & Drinks,-14.04,,,Jerome C
+2021-01-07T10:32:30+00:00,Wallet,Expense,Books,-43.2,Datacamp,#Datacamp,Jerome C
+2021-01-07T15:58:19+00:00,Wallet,Expense,Books,-67.392,,,Jerome C
+2021-01-07T23:54:40+00:00,Wallet,Expense,Food & Drinks,-975.6,,,Jerome C
+2021-01-07T23:55:03+00:00,Wallet,Expense,Books,-93.24,,,Jerome C
+2021-01-07T23:56:59+00:00,Wallet,Expense,Food & Drinks,-50.04,,,Jerome C
+2021-01-08T04:18:43+00:00,Wallet,Income,Salary,-69.084,,,Jerome C
+2021-01-08T13:06:27+00:00,Wallet,Expense,Food & Drinks,2880,,,Jerome C
+2021-01-08T13:06:31+00:00,Wallet,Expense,Gifts,-23.76,,,Jerome C
+2021-01-09T08:18:01+00:00,Wallet,Expense,Gifts,-23.76,,,Jerome C
+2021-01-14T03:02:09+00:00,Wallet,Expense,Haircuts,-43.2,,,Jerome C
+2021-01-14T03:02:34+00:00,Wallet,Expense,Gifts,-43.2,,,Jerome C
+2021-01-14T03:02:45+00:00,Wallet,Expense,Food & Drinks,-430.92,,,Jerome C
+2021-01-14T10:36:25+00:00,Wallet,Expense,Transportation,-11.16,,,Jerome C
+2021-01-15T01:26:19+00:00,Wallet,Expense,Investment,-47.52,NotionApp,#NotionApp,Jerome C
+2021-01-15T12:16:22+00:00,Wallet,Expense,Transportation,-26.46,,,Jerome C
+2021-01-15T12:16:26+00:00,Wallet,Expense,Food & Drinks,-29.52,,,Jerome C
+2021-01-16T04:06:31+00:00,Wallet,Expense,Food & Drinks,-4.68,,,Jerome C
+2021-01-16T04:06:36+00:00,Wallet,Expense,Food & Drinks,-108,,,Jerome C
+2021-01-17T04:07:02+00:00,Wallet,Expense,Sports,-29.88,,,Jerome C
+2021-01-18T08:09:48+00:00,Wallet,Expense,Food & Drinks,-51.48,,,Jerome C
+2021-01-18T08:43:12+00:00,Wallet,Expense,Food & Drinks,-51.84,,,Jerome C
+2021-01-19T08:57:23+00:00,Wallet,Expense,Food & Drinks,-64.08,,,Jerome C
+2021-01-19T08:57:34+00:00,Wallet,Expense,Food & Drinks,-38.34,,,Jerome C
+2021-01-21T11:07:49+00:00,Wallet,Expense,Food & Drinks,-20.88,,,Jerome C
+2021-01-22T11:07:34+00:00,Wallet,Expense,Food & Drinks,-42.48,,,Jerome C
+2021-01-22T11:07:39+00:00,Wallet,Expense,Gifts,-39.6,,,Jerome C
+2021-01-24T04:40:22+00:00,Wallet,Expense,Investment,-39.6,icloudstorage,#icloudstorage,Jerome C
+2021-01-24T13:28:00+00:00,Wallet,Expense,Investment,-4.608,macbook pro,,Jerome C
+2021-01-24T16:00:00+00:00,Wallet,Expense,Investment,-785.412,insurance,,Jerome C
+2021-01-24T16:00:00+00:00,Wallet,Expense,Investment,-315,insurance,,Jerome C
+2021-01-25T13:18:21+00:00,Wallet,Expense,Food & Drinks,-315,,,Jerome C
+2021-01-26T02:28:26+00:00,Wallet,Expense,Books,-32.76,,,Jerome C
+2021-01-26T10:40:07+00:00,Wallet,Expense,Food & Drinks,-105.048,,,Jerome C
+2021-01-27T00:55:46+00:00,Wallet,Expense,Food & Drinks,-46.08,,,Jerome C
+2021-01-29T02:37:50+00:00,Wallet,Expense,Food & Drinks,-37.8,,,Jerome C
+2021-01-29T03:45:46+00:00,Wallet,Expense,Food & Drinks,-54.684,,,Jerome C
+2021-01-30T03:44:56+00:00,Wallet,Expense,Food & Drinks,-41.4,,,Jerome C
+2021-01-31T06:00:23+00:00,Wallet,Expense,Investment,-70.92,,,Jerome C
+2021-02-01T03:07:56+00:00,Wallet,Expense,Investment,-1080,website,#website,Jerome C
+2021-02-01T03:47:36+00:00,Wallet,Expense,Food & Drinks,-43.2,,,Jerome C
+2021-02-01T05:20:52+00:00,Wallet,Expense,Books,-10.44,,,Jerome C
+2021-02-02T03:47:16+00:00,Wallet,Expense,Food & Drinks,-270,,,Jerome C
+2021-02-03T10:40:27+00:00,Wallet,Expense,Food & Drinks,-76.644,,,Jerome C
+2021-02-03T10:41:58+00:00,Wallet,Expense,Food & Drinks,-42.48,,,Jerome C
+2021-02-03T10:43:30+00:00,Wallet,Expense,Food & Drinks,-25.92,,,Jerome C
+2021-02-03T10:43:41+00:00,Wallet,Expense,Transportation,-34.56,,,Jerome C
+2021-02-03T13:32:27+00:00,Wallet,Expense,Bills,-27.36,handphonebills,#handphonebills,Jerome C
+2021-02-05T02:37:06+00:00,Wallet,Expense,Food & Drinks,-173.7,,,Jerome C
+2021-02-05T02:37:15+00:00,Wallet,Expense,Transportation,-50.4,,,Jerome C
+2021-02-06T02:36:52+00:00,Wallet,Expense,Food & Drinks,-32.4,,,Jerome C
+2021-02-07T10:32:30+00:00,Wallet,Expense,Books,-68.004,Datacamp,#Datacamp,Jerome C
+2021-02-11T11:28:18+00:00,Wallet,Expense,Food & Drinks,-67.392,,,Jerome C
+2021-02-11T11:28:21+00:00,Wallet,Expense,Food & Drinks,-100.8,,,Jerome C
+2021-02-11T11:28:29+00:00,Wallet,Expense,Transportation,-100.8,,,Jerome C
+2021-02-12T02:11:24+00:00,Wallet,Expense,Transportation,-144,,,Jerome C
+2021-02-12T02:11:46+00:00,Wallet,Expense,Food & Drinks,-39.6,,,Jerome C
+2021-02-14T02:12:31+00:00,Wallet,Expense,Entertainment,-25.2,,,Jerome C
+2021-02-14T02:13:34+00:00,Wallet,Expense,Books,-205.2,,,Jerome C
+2021-02-14T05:19:53+00:00,Wallet,Expense,Food & Drinks,-79.2,,,Jerome C
+2021-02-14T08:33:45+00:00,Wallet,Expense,Food & Drinks,-48.6,,,Jerome C
+2021-02-14T08:33:52+00:00,Wallet,Expense,Food & Drinks,-27.72,,,Jerome C
+2021-02-15T01:26:19+00:00,Wallet,Expense,Investment,-52.2,NotionApp,#NotionApp,Jerome C
+2021-02-15T10:00:30+00:00,Wallet,Expense,Food & Drinks,-26.46,,,Jerome C
+2021-02-15T10:00:59+00:00,Wallet,Expense,Food & Drinks,-9,,,Jerome C
+2021-02-15T15:35:35+00:00,Wallet,Expense,Gifts,-10.08,,,Jerome C
+2021-02-19T03:00:29+00:00,Wallet,Expense,Food & Drinks,-432,,,Jerome C
+2021-02-19T11:50:11+00:00,Wallet,Expense,Food & Drinks,-19.08,,,Jerome C
+2021-02-22T02:53:53+00:00,Wallet,Expense,Gifts,-18.72,,,Jerome C
+2021-02-22T02:53:57+00:00,Wallet,Income,Salary,200000,,,Jerome C
+2021-02-22T02:53:57+00:00,Wallet,Expense,Gifts,-288,,,Jerome C
+2021-02-22T02:53:58+00:00,Wallet,Expense,Gifts,-288,,,Jerome C
+2021-02-22T02:54:04+00:00,Wallet,Expense,Gifts,-288,,,Jerome C
+2021-02-22T02:54:31+00:00,Wallet,Expense,Gifts,-288,,,Jerome C
+2021-02-22T05:17:55+00:00,Wallet,Expense,Food & Drinks,-288,,,Jerome C
+2021-02-23T03:43:55+00:00,Wallet,Expense,Food & Drinks,-18,,,Jerome C
+2021-02-23T14:26:07+00:00,Wallet,Expense,Food & Drinks,-28.8,,,Jerome C
+2021-02-23T14:26:41+00:00,Wallet,Expense,Shopping,-23.76,,#clothes,Jerome C
+2021-02-23T14:26:54+00:00,Wallet,Expense,Stationery,-56.88,,,Jerome C
+2021-02-24T04:40:22+00:00,Wallet,Expense,Investment,-11.52,icloudstorage,#icloudstorage,Jerome C
+2021-02-24T13:28:00+00:00,Wallet,Expense,Investment,-4.608,macbook pro,,Jerome C
+2021-02-24T16:00:00+00:00,Wallet,Expense,Investment,-785.412,insurance,,Jerome C
+2021-02-25T00:34:49+00:00,Wallet,Expense,Food & Drinks,-315,,,Jerome C
+2021-02-25T00:50:23+00:00,Wallet,Expense,Gifts,-24.48,,,Jerome C
+2021-02-26T11:54:29+00:00,Wallet,Expense,Food & Drinks,-3.6,microsoft office,,Jerome C
+2021-02-28T03:36:30+00:00,Wallet,Expense,Bills,-60.804,,,Jerome C
+2021-02-28T06:00:23+00:00,Wallet,Expense,Investment,-38.88,,,Jerome C
+2021-03-01T14:17:39+00:00,Wallet,Expense,Food & Drinks,-1080,,,Jerome C
+2021-03-03T13:32:27+00:00,Wallet,Expense,Bills,-60.66,handphonebills,#handphonebills,Jerome C
+2021-03-05T01:54:14+00:00,Wallet,Expense,Food & Drinks,-173.7,,,Jerome C
+2021-03-07T10:32:30+00:00,Wallet,Expense,Books,-21.6,Datacamp,#Datacamp,Jerome C
+2021-03-10T01:07:12+00:00,Wallet,Expense,Food & Drinks,-67.392,,,Jerome C
+2021-03-10T01:08:54+00:00,Wallet,Expense,Books,-20.88,mindnode,,Jerome C
+2021-03-13T00:23:55+00:00,Wallet,Expense,Food & Drinks,-12.6,,,Jerome C
+2021-03-13T00:24:03+00:00,Wallet,Expense,Food & Drinks,-49.68,,,Jerome C
+2021-03-13T00:24:41+00:00,Wallet,Expense,Gifts,-8.28,yamel wedding,,Jerome C
+2021-03-13T00:24:55+00:00,Wallet,Expense,Entertainment,-540,,,Jerome C
+2021-03-14T00:23:07+00:00,Wallet,Expense,Food & Drinks,-52.2,,,Jerome C
+2021-03-14T12:36:27+00:00,Wallet,Expense,Food & Drinks,-108,,,Jerome C
+2021-03-15T01:26:19+00:00,Wallet,Expense,Investment,-23.76,NotionApp,#NotionApp,Jerome C
+2021-03-15T08:26:24+00:00,Wallet,Expense,Food & Drinks,-26.46,,,Jerome C
+2021-03-16T08:26:11+00:00,Wallet,Expense,Food & Drinks,-85.68,,,Jerome C
+2021-03-17T11:31:57+00:00,Wallet,Expense,Food & Drinks,-66.24,,,Jerome C
+2021-03-17T11:32:07+00:00,Wallet,Expense,Gifts,-43.2,,,Jerome C
+2021-03-18T02:30:42+00:00,Wallet,Expense,Food & Drinks,-18,,,Jerome C
+2021-03-18T02:30:50+00:00,Wallet,Expense,Gifts,-6.48,,,Jerome C
+2021-03-18T07:26:32+00:00,Wallet,Expense,Food & Drinks,-3.6,,,Jerome C
+2021-03-18T12:25:31+00:00,Wallet,Expense,Food & Drinks,-16.2,,,Jerome C
+2021-03-19T04:25:11+00:00,Wallet,Expense,Food & Drinks,-21.6,,,Jerome C
+2021-03-20T04:15:26+00:00,Wallet,Expense,Food & Drinks,-18.72,,,Jerome C
+2021-03-20T04:24:46+00:00,Wallet,Expense,Food & Drinks,-90,,,Jerome C
+2021-03-20T04:31:28+00:00,Wallet,Expense,Gifts,-38.88,,,Jerome C
+2021-03-20T04:46:32+00:00,Wallet,Expense,Gifts,-37.44,,,Jerome C
+2021-03-24T04:40:22+00:00,Wallet,Expense,Investment,-69.12,icloudstorage,#icloudstorage,Jerome C
+2021-03-24T13:28:00+00:00,Wallet,Expense,Investment,-4.608,macbook pro,,Jerome C
+2021-03-24T16:00:00+00:00,Wallet,Expense,Investment,-785.412,insurance,,Jerome C
+2021-03-25T03:07:18+00:00,Wallet,Expense,Food & Drinks,-315,,,Jerome C
+2021-03-26T03:06:56+00:00,Wallet,Expense,Food & Drinks,-25.92,,,Jerome C
+2021-03-27T11:39:31+00:00,Wallet,Expense,Food & Drinks,-45.72,,,Jerome C
+2021-03-27T11:39:56+00:00,Wallet,Expense,Food & Drinks,-53.964,,,Jerome C
+2021-03-27T11:40:18+00:00,Wallet,Expense,Gifts,-9,,,Jerome C
+2021-03-29T03:36:30+00:00,Wallet,Expense,Bills,-10.44,microsoft office,,Jerome C
+2021-03-31T03:49:14+00:00,Wallet,Expense,Food & Drinks,-38.88,,,Jerome C
+2021-03-31T06:00:23+00:00,Wallet,Expense,Investment,-144,,#AXAWealthAcceleratr,Jerome C
+2021-04-02T03:39:26+00:00,Wallet,Expense,Transportation,-1080,taxi and petrol,,Jerome C
+2021-04-03T05:58:27+00:00,Wallet,Expense,Investment,-87.12,,,Jerome C
+2021-04-03T13:32:27+00:00,Wallet,Income,Salary,200000,,,Jerome C
+2021-04-03T13:32:27+00:00,Wallet,Expense,Bills,-468,handphonebills,#handphonebills,Jerome C
+2021-04-04T06:35:37+00:00,Wallet,Expense,Shopping,-173.7,,adizero,Jerome C
+2021-04-04T11:06:50+00:00,Wallet,Expense,Food & Drinks,-201.6,,,Jerome C
+2021-04-04T11:07:01+00:00,Wallet,Expense,Gifts,-42.48,,,Jerome C
+2021-04-04T11:07:08+00:00,Wallet,Expense,Food & Drinks,-13.32,,,Jerome C
+2021-04-05T10:54:47+00:00,Wallet,Expense,Food & Drinks,-43.92,,#coffee,Jerome C
+2021-04-07T02:23:25+00:00,Wallet,Expense,Food & Drinks,-42.948,,,Jerome C
+2021-04-07T08:39:36+00:00,Wallet,Expense,Food & Drinks,-56.52,,,Jerome C
+2021-04-07T11:37:56+00:00,Wallet,Expense,Books,-13.32,,#DSA,Jerome C
+2021-04-07T11:38:15+00:00,Wallet,Expense,Books,-208.44,,,Jerome C
+2021-04-09T00:57:58+00:00,Wallet,Expense,Food & Drinks,-179.64,,,Jerome C
+2021-04-09T07:11:11+00:00,Wallet,Expense,Gifts,-65.16,,,Jerome C
+2021-04-10T01:08:54+00:00,Wallet,Expense,Books,-18,mindnode,,Jerome C
+2021-04-10T08:45:58+00:00,Wallet,Expense,Food & Drinks,-12.6,,,Jerome C
+2021-04-12T11:18:22+00:00,Wallet,Expense,Food & Drinks,-54,,,Jerome C
+2021-04-12T11:18:34+00:00,Wallet,Expense,Food & Drinks,-37.08,,,Jerome C
+2021-04-14T08:54:20+00:00,Wallet,Expense,Food & Drinks,-75.24,,,Jerome C
+2021-04-14T08:54:32+00:00,Wallet,Expense,Gifts,-58.32,,,Jerome C
+2021-04-15T01:26:19+00:00,Wallet,Expense,Investment,-5.4,NotionApp,#NotionApp,Jerome C
+2021-04-16T10:17:56+00:00,Wallet,Expense,Transportation,-26.46,,,Jerome C
+2021-04-19T11:09:23+00:00,Wallet,Expense,Food & Drinks,-72,,,Jerome C
+2021-04-23T01:22:58+00:00,Wallet,Expense,Food & Drinks,-25.2,,,Jerome C
+2021-04-24T04:32:15+00:00,Wallet,Expense,Food & Drinks,-63,,,Jerome C
+2021-04-24T04:40:22+00:00,Wallet,Expense,Investment,-20.52,icloudstorage,#icloudstorage,Jerome C
+2021-04-24T13:28:00+00:00,Wallet,Expense,Investment,-4.608,macbook pro,,Jerome C
+2021-04-24T16:00:00+00:00,Wallet,Expense,Investment,-785.412,insurance,,Jerome C
+2021-04-24T16:53:09+00:00,Wallet,Expense,Food & Drinks,-315,,,Jerome C
+2021-04-24T16:53:29+00:00,Wallet,Expense,Gifts,-66.6,"Good day today, come back in future",,Jerome C
+2021-04-26T00:47:11+00:00,Wallet,Expense,Food & Drinks,-66.6,,,Jerome C
+2021-04-27T03:58:56+00:00,Wallet,Expense,Books,-54,,#dsa,Jerome C
+2021-04-27T05:08:19+00:00,Wallet,Expense,Books,-64.728,Necessary Endings,,Jerome C
+2021-04-29T03:36:30+00:00,Wallet,Expense,Bills,-118.08,microsoft office,,Jerome C
+2021-04-29T11:05:52+00:00,Wallet,Expense,Food & Drinks,-38.88,,,Jerome C
+2021-04-30T06:00:23+00:00,Wallet,Expense,Investment,-34.92,,,Jerome C
+2021-05-01T10:46:20+00:00,Wallet,Expense,Gifts,-1080,,,Jerome C
+2021-05-03T13:32:27+00:00,Wallet,Expense,Bills,-72,handphonebills,#handphonebills,Jerome C
+2021-05-04T06:35:37+00:00,Wallet,Expense,Shopping,-173.7,adizero,,Jerome C
+2021-05-04T06:39:40+00:00,Wallet,Expense,Food & Drinks,-201.6,,,Jerome C
+2021-05-05T10:54:47+00:00,Wallet,Income,Salary,22000022,promotion,,Jerome C
+2021-05-05T10:54:47+00:00,Wallet,Expense,Food & Drinks,-36,,#coffee,Jerome C
+2021-05-08T05:06:10+00:00,Wallet,Expense,Gifts,-42.948,,,Jerome C
+2021-05-08T05:06:13+00:00,Wallet,Expense,Food & Drinks,-25.2,,,Jerome C
+2021-05-10T01:08:54+00:00,Wallet,Expense,Books,-32.4,,,Jerome C
+2021-05-10T02:03:46+00:00,Wallet,Expense,Food & Drinks,-12.6,,,Jerome C
+2021-05-10T08:54:58+00:00,Wallet,Expense,Food & Drinks,-51.48,,,Jerome C
+2021-05-10T08:55:05+00:00,Wallet,Expense,Gifts,-18,For family,,Jerome C
+2021-05-10T11:52:01+00:00,Wallet,Expense,Food & Drinks,-9,,,Jerome C
+2021-05-12T04:22:41+00:00,Wallet,Expense,Food & Drinks,-26.64,,,Jerome C
+2021-05-12T07:44:14+00:00,Wallet,Expense,Transportation,-45,,,Jerome C
+2021-05-12T07:44:14+00:00,Wallet,Income,Salary,9999999,,Bonus,Jerome C
+2021-05-12T15:00:25+00:00,Wallet,Expense,Books,-22.32,,#dsa,Jerome C
+2021-05-15T01:26:19+00:00,Wallet,Expense,Investment,-71.928,NotionApp,#NotionApp,Jerome C
+2021-05-16T02:53:14+00:00,Wallet,Expense,Food & Drinks,-26.46,,,Jerome C
+2021-05-19T08:01:21+00:00,Wallet,Expense,Food & Drinks,-50.4,,,Jerome C
+2021-05-19T08:01:30+00:00,Wallet,Expense,Gifts,-32.76,,,Jerome C
+2021-05-19T08:01:38+00:00,Wallet,Expense,Food & Drinks,-28.8,,,Jerome C
+2021-05-20T07:20:56+00:00,Wallet,Expense,Books,-75.6,,,Jerome C
+2021-05-20T22:31:53+00:00,Wallet,Expense,Books,-88.308,,#udemy,Jerome C
+2021-05-22T14:10:46+00:00,Wallet,Expense,Food & Drinks,-79.128,,,Jerome C
+2021-05-22T14:28:14+00:00,Wallet,Expense,Gifts,-61.2,,,Jerome C
+2021-05-24T04:40:22+00:00,Wallet,Expense,Investment,-21.6,icloudstorage,#icloudstorage,Jerome C
+2021-05-24T13:28:00+00:00,Wallet,Expense,Investment,-4.608,macbook pro,,Jerome C
+2021-05-24T16:00:00+00:00,Wallet,Expense,Investment,-785.412,insurance,,Jerome C
+2021-05-25T02:16:58+00:00,Wallet,Expense,Food & Drinks,-315,,,Jerome C
+2021-05-25T02:17:20+00:00,Wallet,Expense,Gifts,-29.34,,,Jerome C
+2021-05-25T02:17:28+00:00,Wallet,Expense,Gifts,-18,,,Jerome C
+2021-05-26T08:17:13+00:00,Wallet,Expense,Food & Drinks,-24.84,,,Jerome C
+2021-05-26T23:56:02+00:00,Wallet,Expense,Food & Drinks,-36,,#coffee,Jerome C
+2021-05-28T04:19:58+00:00,Wallet,Expense,Haircuts,-72,,,Jerome C
+2021-05-28T04:20:14+00:00,Wallet,Expense,Food & Drinks,-115.2,,,Jerome C
+2021-05-28T12:08:10+00:00,Wallet,Expense,Food & Drinks,-24.12,,,Jerome C
+2021-05-30T06:18:36+00:00,Wallet,Expense,Food & Drinks,-49.68,,,Jerome C
+2021-05-30T06:18:38+00:00,Wallet,Expense,Food & Drinks,-165.6,,,Jerome C
+2021-05-31T06:00:23+00:00,Wallet,Expense,Investment,-165.6,,,Jerome C
+2021-05-31T23:56:25+00:00,Wallet,Expense,Food & Drinks,-1080,,#coffee,Jerome C
+2021-06-03T01:46:44+00:00,Wallet,Expense,Medical,-70.92,,,Jerome C
+2021-06-03T05:16:50+00:00,Wallet,Expense,Food & Drinks,-144,,,Jerome C
+2021-06-03T13:32:27+00:00,Wallet,Expense,Bills,-198,handphonebills,#handphonebills,Jerome C
+2021-06-04T03:55:51+00:00,Wallet,Expense,Food & Drinks,-173.7,,,Jerome C
+2021-06-04T03:57:34+00:00,Wallet,Expense,Food & Drinks,-28.8,Restaurant: Test Grills,,Jerome C
+2021-06-04T03:57:46+00:00,Wallet,Expense,Food & Drinks,-15.12,,,Jerome C
+2021-06-04T06:35:37+00:00,Wallet,Expense,Shopping,-43.2,,,Jerome C
+2021-06-04T14:23:27+00:00,Wallet,Income,Salary,200000,,,Jerome C
+2021-06-04T14:23:27+00:00,Wallet,Expense,Books,-201.6,,,Jerome C
+2021-06-05T10:54:47+00:00,Wallet,Expense,Food & Drinks,-140.4,,#coffee,Jerome C

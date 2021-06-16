@@ -2,7 +2,7 @@ const parse = require('csv-parse');
 const fs = require('fs');
 
 let csvData = [];
-  fs.createReadStream(`${__dirname}/seed-data.csv`)
+  fs.createReadStream(`${__dirname}/seed_data.csv`)
   .pipe(
       parse({
         delimiter: ','
