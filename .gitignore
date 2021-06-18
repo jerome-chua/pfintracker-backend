@@ -7,5 +7,4 @@ node_modules/
 config/
 
 # API
-client_secret.js
 seed-data.csv
