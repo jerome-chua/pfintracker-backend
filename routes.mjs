@@ -9,8 +9,7 @@ export default function bindRoutes(app) {
   app.post('/addtransaction/', TransactController.addTransaction);
   app.get('/getcategories', TransactController.getCategories);
   app.get('/gethashtags', TransactController.getHashtags);
+  app.delete('/deletetransactions', TransactController.deleteTransactions);
 
-  
   const UsersController = initUserControllers(db);
-
 }

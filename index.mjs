@@ -2,7 +2,7 @@ import express from 'express';
 import cookieParser from 'cookie-parser';
 import methodOverride from 'method-override';
 import cors from 'cors';
-import bindRoutes from './routes.mjs'
+import bindRoutes from './routes.mjs';
 
 const FRONTEND_URL = process.env.FRONTEND_URL || 'http://localhost:3000';
 
@@ -10,9 +10,9 @@ const FRONTEND_URL = process.env.FRONTEND_URL || 'http://localhost:3000';
 const app = express();
 // Bind following app-level middleware
 app.use(cors({
-  credentials:true,    // enable HTTP cookies over CORS
-  origin: FRONTEND_URL // restrict AJAX acess to single origin
-}))
+  credentials: true, // enable HTTP cookies over CORS
+  origin: FRONTEND_URL, // restrict AJAX acess to single origin
+}));
 // Set Express view engine to expect EJS template
 app.set('view engine', 'ejs');
 // Parse cookie header and handle cookie separation & encoding
@@ -25,7 +25,6 @@ app.use(express.urlencoded({ extended: false }));
 app.use(methodOverride('_method'));
 // Serve static files stored in public folder
 app.use(express.static('public'));
-
 
 // Bind route definitions to Express app
 bindRoutes(app);

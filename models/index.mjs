@@ -8,7 +8,7 @@ import initTransactionModel from './transaction.mjs';
 /*
   Set environment config to correspnding environment node found in config.js
   based on NODE_ENV environment variable value (defaults to development if null)
- */ 
+ */
 const env = process.env.NODE_ENV || 'development';
 const config = allConfig[env];
 
