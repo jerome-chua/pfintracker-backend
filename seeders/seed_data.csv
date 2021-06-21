@@ -337,7 +337,7 @@ Date,Wallet,Type,Category,Amount,Note,Hashtag,User
 2020-12-01T04:28:27+00:00,Wallet,Expense,Books,-400,nodejs,#nodejs,Jerome C
 2020-12-01T05:21:13+00:00,Wallet,Expense,Food & Drinks,-398.988,,,Jerome C
 2020-12-01T07:46:25+00:00,Wallet,Expense,Investment,-16.2,secretlab,#secretlab,Jerome C
-2020-12-01T10:47:12+00:00,Wallet,Expense,Books,-449.1,datastructures,#datastructures,Jerome C
+2020-12-01T10:47:12+00:00,Wallet,Expense,Books,-449.1,,,Jerome C
 2020-12-01T10:47:29+00:00,Wallet,Expense,Food & Drinks,-64.728,coffee,#coffee,Jerome C
 2020-12-01T15:44:09+00:00,Wallet,Income,Salary,-6000,,,Jerome C
 2020-12-01T15:44:09+00:00,Wallet,Expense,Investment,-248.4,secretlab,#secretlab,Jerome C
@@ -397,10 +397,10 @@ Date,Wallet,Type,Category,Amount,Note,Hashtag,User
 2020-12-31T14:22:39+00:00,Wallet,Expense,Food & Drinks,-72,,,Jerome C
 2020-12-31T14:22:44+00:00,Wallet,Expense,Gifts,-17.64,,,Jerome C
 2020-12-31T17:10:11+00:00,Wallet,Expense,Transportation,-17.64,,,Jerome C
-2021-01-01T00:58:35+00:00,Wallet,Expense,Books,-50.4,golang,#golang,Jerome C
+2021-01-01T00:58:35+00:00,Wallet,Expense,Books,-50.4,,,Jerome C
 2021-01-01T01:14:15+00:00,Wallet,Expense,Food & Drinks,-71.964,,,Jerome C
 2021-01-01T04:13:07+00:00,Wallet,Expense,Food & Drinks,-86.4,,,Jerome C
-2021-01-01T04:13:34+00:00,Wallet,Expense,Gifts,-28.8,gege birthday,,Jerome C
+2021-01-01T04:13:34+00:00,Wallet,Expense,Gifts,-28.8,,,Jerome C
 2021-01-01T07:56:22+00:00,Wallet,Expense,Books,-122.4,,,Jerome C
 2021-01-02T13:41:40+00:00,Wallet,Expense,Food & Drinks,-115.2,groceries,#groceries,Jerome C
 2021-01-03T08:30:49+00:00,Wallet,Expense,Gifts,-165.96,,,Jerome C
@@ -441,7 +441,7 @@ Date,Wallet,Type,Category,Amount,Note,Hashtag,User
 2021-01-22T11:07:34+00:00,Wallet,Expense,Food & Drinks,-42.48,,,Jerome C
 2021-01-22T11:07:39+00:00,Wallet,Expense,Gifts,-39.6,,,Jerome C
 2021-01-24T04:40:22+00:00,Wallet,Expense,Investment,-39.6,icloudstorage,#icloudstorage,Jerome C
-2021-01-24T13:28:00+00:00,Wallet,Expense,Investment,-4.608,macbook pro,,Jerome C
+2021-01-24T16:00:00+00:00,Wallet,Expense,Investment,-4.608,macbook pro,,Jerome C
 2021-01-24T16:00:00+00:00,Wallet,Expense,Investment,-785.412,insurance,,Jerome C
 2021-01-24T16:00:00+00:00,Wallet,Expense,Investment,-315,insurance,,Jerome C
 2021-01-25T13:18:21+00:00,Wallet,Expense,Food & Drinks,-315,,,Jerome C
@@ -503,6 +503,7 @@ Date,Wallet,Type,Category,Amount,Note,Hashtag,User
 2021-03-01T14:17:39+00:00,Wallet,Expense,Food & Drinks,-1080,,,Jerome C
 2021-03-03T13:32:27+00:00,Wallet,Expense,Bills,-60.66,handphonebills,#handphonebills,Jerome C
 2021-03-05T01:54:14+00:00,Wallet,Expense,Food & Drinks,-173.7,,,Jerome C
+2021-03-05T01:54:14+00:00,Wallet,Income,Salary,-6000,,,Jerome C
 2021-03-07T10:32:30+00:00,Wallet,Expense,Books,-21.6,Datacamp,#Datacamp,Jerome C
 2021-03-10T01:07:12+00:00,Wallet,Expense,Food & Drinks,-67.392,,,Jerome C
 2021-03-10T01:08:54+00:00,Wallet,Expense,Books,-20.88,mindnode,,Jerome C
@@ -567,12 +568,13 @@ Date,Wallet,Type,Category,Amount,Note,Hashtag,User
 2021-04-24T13:28:00+00:00,Wallet,Expense,Investment,-4.608,macbook pro,,Jerome C
 2021-04-24T16:00:00+00:00,Wallet,Expense,Investment,-785.412,insurance,,Jerome C
 2021-04-24T16:53:09+00:00,Wallet,Expense,Food & Drinks,-315,,,Jerome C
-2021-04-24T16:53:29+00:00,Wallet,Expense,Gifts,-66.6,"Good day today, come back in future",,Jerome C
+2021-04-24T13:28:00+00:00,Wallet,Expense,Gifts,-66.6,nice place,,Jerome C
 2021-04-26T00:47:11+00:00,Wallet,Expense,Food & Drinks,-66.6,,,Jerome C
 2021-04-27T03:58:56+00:00,Wallet,Expense,Books,-54,,#dsa,Jerome C
 2021-04-27T05:08:19+00:00,Wallet,Expense,Books,-64.728,Necessary Endings,,Jerome C
 2021-04-29T03:36:30+00:00,Wallet,Expense,Bills,-118.08,microsoft office,,Jerome C
 2021-04-29T11:05:52+00:00,Wallet,Expense,Food & Drinks,-38.88,,,Jerome C
+2021-04-29T11:05:52+00:00,Wallet,Income,Salary,-6000,,,Jerome C
 2021-04-30T06:00:23+00:00,Wallet,Expense,Investment,-34.92,,,Jerome C
 2021-05-01T10:46:20+00:00,Wallet,Expense,Gifts,-1080,,,Jerome C
 2021-05-03T13:32:27+00:00,Wallet,Expense,Bills,-72,handphonebills,#handphonebills,Jerome C
@@ -619,7 +621,7 @@ Date,Wallet,Type,Category,Amount,Note,Hashtag,User
 2021-06-03T05:16:50+00:00,Wallet,Expense,Food & Drinks,-144,,,Jerome C
 2021-06-03T13:32:27+00:00,Wallet,Expense,Bills,-198,handphonebills,#handphonebills,Jerome C
 2021-06-04T03:55:51+00:00,Wallet,Expense,Food & Drinks,-173.7,,,Jerome C
-2021-06-04T03:57:34+00:00,Wallet,Expense,Food & Drinks,-28.8,Restaurant: Test Grills,,Jerome C
+2021-06-04T03:57:34+00:00,Wallet,Expense,Food & Drinks,-28.8,restaurant,,Jerome C
 2021-06-04T03:57:46+00:00,Wallet,Expense,Food & Drinks,-15.12,,,Jerome C
 2021-06-04T06:35:37+00:00,Wallet,Expense,Shopping,-43.2,,,Jerome C
 2021-06-04T14:23:27+00:00,Wallet,Income,Salary,-12000,Bonus,,Jerome C

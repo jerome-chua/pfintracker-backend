@@ -7,4 +7,4 @@ node_modules/
 config/
 
 # API
-seed-data.csv
+seed_data.csv
