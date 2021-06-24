@@ -1,5 +1,5 @@
 const jsSHA = require('jssha');
-const readCsvFn = require('./csv-data.js');
+const readCsvFn = require('../csv-data.js');
 
 module.exports = {
   up: async (queryInterface) => {

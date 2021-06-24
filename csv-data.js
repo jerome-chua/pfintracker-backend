@@ -4,7 +4,7 @@ const fs = require('fs');
 async function translateCsv(filename) {
   return new Promise((resolve) => {
     const arr = [];
-    fs.createReadStream(`${__dirname}/${filename}.csv`)
+    fs.createReadStream(`${__dirname}/seeders/${filename}.csv`)
       .pipe(
         parse({
           delimiter: ',',
