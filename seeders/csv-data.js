@@ -1,18 +1,35 @@
 const parse = require('csv-parse');
 const fs = require('fs');
 
-const csvData = [];
-fs.createReadStream(`${__dirname}/seed_data.csv`)
-  .pipe(
-    parse({
-      delimiter: ',',
-    }),
-  )
-  .on('data', (dataRow) => {
-    csvData.push(dataRow);
-  })
-  .on('end', () => {
-    console.log(csvData);
+async function translateCsv(filename) {
+  return new Promise((resolve) => {
+    const arr = [];
+    fs.createReadStream(`${__dirname}/${filename}.csv`)
+      .pipe(
+        parse({
+          delimiter: ',',
+        }),
+      )
+      .on('data', (dataRow) => {
+        arr.push(dataRow);
+      })
+      .on('end', () => {
+        console.log(arr);
+        resolve(arr);
+      });
   });
+}
 
-module.exports = csvData;
+const readCsvFn = async () => {
+  try {
+    const csvData = {};
+
+    csvData.transactions = await translateCsv('seed_data');
+
+    return csvData;
+  } catch (err) {
+    console.log(err);
+  }
+};
+
+module.exports = readCsvFn;

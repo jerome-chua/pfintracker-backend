@@ -1,5 +1,5 @@
 const jsSHA = require('jssha');
-const csvData = require('./csv-data.js');
+const readCsvFn = require('./csv-data.js');
 
 module.exports = {
   up: async (queryInterface) => {
@@ -24,10 +24,12 @@ module.exports = {
     ];
     await queryInterface.bulkInsert('users', usersList);
 
+    const importedData = await readCsvFn();
+    console.log('SEE IMPORTAED', importedData.transactions);
     const transactionsList = [];
 
-    for (let i = 1; i < csvData.length; i++) {
-      const row = csvData[i];
+    for (let i = 1; i < importedData.transactions.length; i += 1) {
+      const row = importedData.transactions[i];
       const [transactDate, wallet, transactionType, categoryName, amount, note, hashTag] = row;
 
       const transaction = {
